@@ -1,0 +1,21 @@
+{
+    "name": "ragnarok-coder-dark",
+    "displayName": "Ragnarok Coder Dark",
+    "description": "Ragnarok personal coder theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ragnarok",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ragnarok-color-theme.json"
+            }
+        ]
+    }
+}
