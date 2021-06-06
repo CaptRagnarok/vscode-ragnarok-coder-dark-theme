@@ -1,9 +1,9 @@
 {
 	"name": "Ragnarok",
 	"displayName":"Ragnarok Coder Dark",
-	"description": "A yellow/blue theme optimized for HTML / CSS / JS. May continue development for other languages upon request.",
-	"version": "0.75.0",
+	"version": "0.7.5",
 	"publisher": "RagnarokCoding",
+	"description": "A yellow/blue theme optimized for HTML / CSS / JS. May continue development for other languages upon request.",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/CaptRagnarok/vscode-ragnarok-coder-dark-theme"

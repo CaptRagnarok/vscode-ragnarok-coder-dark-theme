@@ -1,5 +1,3 @@
-# THEME README
-
 ### VERSION
 
 0.75.0

@@ -1,21 +1,26 @@
 {
-    "name": "ragnarok-coder-dark",
-    "displayName": "Ragnarok Coder Dark",
-    "description": "Ragnarok personal coder theme!",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Ragnarok",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Ragnarok-color-theme.json"
-            }
-        ]
-    }
+  "name": "ragnarok-coder-dark",
+  "displayName": "Ragnarok Coder Dark",
+  "description": "A yellow/blue theme optimized for HTML / CSS / JS. May continue development for other languages upon request.",
+  "publisher": "RagnarokCoding",
+  "version": "0.7.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CaptRagnarok/vscode-ragnarok-coder-dark-theme"
+  },
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ragnarok",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ragnarok-color-theme.json"
+      }
+    ]
+  }
 }
