@@ -6,7 +6,7 @@
 	"publisher": "RagnarokCoding",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/CaptRagnarok/vscode-ragnarok-coder-dark-theme"
 	},
 	"keywords": [
 		"theme",
@@ -16,7 +16,7 @@
 		"dark yellow",
 		"yellow blue"
 	],
-	
+
 	"type": "dark",
 	"colors": {
 		"editor.background": "#2c3030",

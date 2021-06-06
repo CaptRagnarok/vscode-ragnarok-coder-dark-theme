@@ -1,8 +1,6 @@
-# README
+# THEME README
 
-## This is the README for your extension "ragnarok-coder-dark"
-
-## VERSION
+### VERSION
 
 0.75.0
 
