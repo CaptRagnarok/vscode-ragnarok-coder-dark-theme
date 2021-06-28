@@ -1,9 +1,9 @@
 {
   "name": "ragnarok-coder-dark",
-  "displayName": "Ragnarok Coder Dark",
-  "description": "A yellow/blue theme optimized for HTML / CSS / JS. May continue development for other languages upon request.",
+  "displayName": "Ragnarok",
+  "description": "A yellow theme with blue accents and grey background optimized for HTML / CSS / JS. Also includes MD and JSON support.",
   "publisher": "RagnarokCoding",
-  "version": "0.7.5",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/CaptRagnarok/vscode-ragnarok-coder-dark-theme"
@@ -13,6 +13,14 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "night theme",
+    "accessible theme",
+    "accessible",
+    "yellow"
   ],
   "contributes": {
     "themes": [
