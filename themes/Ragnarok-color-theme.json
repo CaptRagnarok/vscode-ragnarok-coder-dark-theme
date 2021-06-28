@@ -606,7 +606,7 @@
 			}
 		},
 		{
-			"name": "Variables no.1 [JS]",
+			"name": "Variables [JS]",
 			"scope": [
 				"variable.other.object.property.js",
 				"variable.other.constant.js",
@@ -617,7 +617,7 @@
 			}
 		},
 		{
-			"name": "Variables [JS]",
+			"name": "Variables (other) [JS]",
 			"scope": [
 				"variable.other.property.js",
 				"variable.language.this.js",
@@ -629,7 +629,7 @@
 			}
 		},
 		{
-			"name": "Variable (other) [JS]",
+			"name": "Variable (other - rw) [JS]",
 			"scope": [
 				"variable.other.readwrite.js",
 			],
@@ -695,7 +695,8 @@
 		{
 			"name": "[JSON] properties, names and tokens",
 			"scope": [
-				"string.json.comments"
+				"string.json.comments",
+				"support.type.property-name.json"
 			],
 			"settings": {
 				"foreground": "#7eaef1",
@@ -705,7 +706,7 @@
 		{
 			"name": "[JSON] token variables and colors",
 			"scope": [
-				"string.quoted.double.json.comments",
+				"string.quoted.double.json",
 				"storage.type.js"
 			],
 			"settings": {
