@@ -4,7 +4,7 @@
   "description": "A yellow theme with blue accents and grey background optimized for HTML / CSS / JS. Also includes MD and JSON support.",
   "publisher": "RagnarokCoding",
   "icon": "images/ragnarok-icon.png",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/CaptRagnarok/vscode-ragnarok-coder-dark-theme"
