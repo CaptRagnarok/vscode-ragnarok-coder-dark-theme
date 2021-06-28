@@ -1,6 +1,6 @@
 # Ragnarok Coder Dark
 
-##### Version: 0.2.0
+##### Version: 0.3.1
 
 A yellow / blue accented Visual Studio Code theme with a dark grey background currently optimized for HTML / CSS / JS (also includes Markdown (MD) and JSON).
 Developed for my personal use, and perhaps, for some others who prefer to type away under the comfort of a dark theme. It was designed to be fairly easy on the eyes, with lower contrasts and darker colors.
@@ -24,7 +24,7 @@ Other programming language support - soon to come!
 
 This was my first attempt into theme creation with VS Code. Any feedback, ideas, bug reports, etc. are more than welcome. Feel free to contact me by [reporting an issue](https://github.com/CaptRagnarok/portfolio-project-grid-practice/issues).
 
-###### KNOWN ISSUES
+##### KNOWN ISSUES
 
 Upon styling the theme, I couldn't find a way to address how to highlight opening and closing HTML tags properly.
 
@@ -34,7 +34,7 @@ PIC FOR ATTENTION
 
 As of that moment, I seemingly cannot locate which part of code corresponds to that mechanic and am unable to change it so it remains a brownish color. As soon as the fix is available, or I get info how to do it, I intend to align the color with the theme.
 
-###### FURTHER PLANS
+##### FURTHER PLANS
 
 1. Further tweak colors, while researching color theory, to increase legibility while not increasing eye strain.
 2. Check if the theme is colorbling accessible and tweak it if it is not.
