@@ -1,6 +1,6 @@
 # Ragnarok Coder Dark
 
-##### Version: 1.0.0
+##### Version: 0.2.0
 
 A yellow / blue accented Visual Studio Code theme with a dark grey background currently optimized for HTML / CSS / JS (also includes Markdown (MD) and JSON).
 Developed for my personal use, and perhaps, for some others who prefer to type away under the comfort of a dark theme. It was designed to be fairly easy on the eyes, with lower contrasts and darker colors.
