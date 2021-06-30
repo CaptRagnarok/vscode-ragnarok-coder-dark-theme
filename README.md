@@ -11,9 +11,9 @@ Other programming language support - soon to come!
 
 ## PREVIEW
 
-<img src="images/preview-html-css-js.jpg">
+<img src="images/preview-general.jpg">
 
-<img src="images/preview.jpg">
+<img src="images/preview-html-css-js.jpg">
 
 ## HOW TO INSTALL
 
