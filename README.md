@@ -11,7 +11,7 @@ Other programming language support - soon to come!
 
 ## PREVIEW
 
-<img src="images/preview-all.jpg">
+<img src="images/preview-lng.jpg">
 
 ## HOW TO INSTALL
 
@@ -45,4 +45,5 @@ As of that moment, I seemingly cannot locate which part of code corresponds to t
 ##### CONTRIBUTIONS AND THANKS
 
 A big thank you to **Sarah Drasner**, the author of the famous _Nightowl_ theme, who pointed me in the right direction with her article: [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/).
+
 And another thanks to **Jessica a.k.a. Coder Coder** who helped me grasp how to "swim" across the Microsoft marketplace and publish my theme. Check out her [video](https://www.youtube.com/watch?v=pGzssFNtWXw) on the subject!
