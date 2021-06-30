@@ -598,6 +598,7 @@
 			"name": "Strings [JS]",
 			"scope": [
 				"string.quoted.single.js",
+				"string.quoted.double.css",
 				"string.template.js",
 			],
 			"settings": {
