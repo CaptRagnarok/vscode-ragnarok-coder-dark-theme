@@ -13,7 +13,7 @@ Other programming language support - soon to come!
 
 <img src="images/preview.jpg">
 
-<img src="images/preview-lng.jpg">
+<img src="images/preview-html-css-js.jpg">
 
 ## HOW TO INSTALL
 
