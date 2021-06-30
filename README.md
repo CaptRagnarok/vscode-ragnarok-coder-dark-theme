@@ -11,9 +11,11 @@ Other programming language support - soon to come!
 
 ## PREVIEW
 
+<img src="images/preview-lng.jpg">
+
 <img src="images/preview.jpg">
 
-<img src="images/preview-lng.jpg">
+
 
 ## HOW TO INSTALL
 
