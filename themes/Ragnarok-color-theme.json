@@ -157,7 +157,7 @@
 	
 
 
-    "editorGroup.emptyBackground": "#333300",
+    "editorGroup.emptyBackground": "#171717",
     "editorGroup.border": "#333300",
     "editorGroup.dropBackground": "#66660073",
 		"editorGroup.focusedEmptyBorder": null,
@@ -203,7 +203,7 @@
 
     "editorCursor.foreground": "#cccc00",
 	
-    "editor.selectionBackground": "#1a2a5aCC",
+    "editor.selectionBackground": "#1a2a5aE6",
 		"editor.selectionForeground": null,
 
     "editor.selectionHighlightBackground": "#5478e479",
@@ -214,8 +214,8 @@
     "editor.wordHighlightBackground": null,
 		"editor.wordHighlightBorder": null,
 		"editor.wordHighlightStrongBackground": "#e2a2f433",
-    "editor.findMatchBackground": "#5478e479",
-    "editor.findMatchHighlightBackground": "#5478e48C",
+    "editor.findMatchBackground": "#b3b30079",
+    "editor.findMatchHighlightBackground": "#4c4c008C",
     "editor.findRangeHighlightBackground": null,
 		"editor.findMatchBorder": null,
 		"editor.findMatchHighlightBorder": null,
@@ -598,6 +598,7 @@
 			"name": "Strings [JS]",
 			"scope": [
 				"string.quoted.single.js",
+				"string.quoted.double.js",
 				"string.quoted.double.css",
 				"string.template.js",
 			],
@@ -611,11 +612,23 @@
 			"scope": [
 				"variable.other.object.property.js",
 				"variable.other.constant.js",
+				"variable.other.readwrite.js"
 			],
 			"settings": {
 				"foreground": "#38C4CC",
 				"fontStyle": ""
 			}
+		},
+		{
+		"name": "Const variables - undefined, null [JS]",
+		"scope": [
+			"constant.language.undefined.js",
+			"constant.language.null.js"
+		],
+		"settings": {
+			"foreground": "#9e60bb",
+			"fontStyle": ""
+		}
 		},
 		{
 			"name": "Variables (other) [JS]",
@@ -626,16 +639,6 @@
 			],
 			"settings": {
 				"foreground": "#94B81E",
-				"fontStyle": ""
-			}
-		},
-		{
-			"name": "Variable (other - rw) [JS]",
-			"scope": [
-				"variable.other.readwrite.js",
-			],
-			"settings": {
-				"foreground": "#c6cfe2",
 				"fontStyle": ""
 			}
 		},
